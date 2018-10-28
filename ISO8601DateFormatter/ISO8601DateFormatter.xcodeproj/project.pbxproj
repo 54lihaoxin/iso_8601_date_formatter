@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		46DECC54218562CD0070966C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DECC53218562CD0070966C /* main.swift */; };
+		46DECC5B2185666E0070966C /* TimeZoneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46DECC5A2185666E0070966C /* TimeZoneTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		46DECC50218562CD0070966C /* ISO8601DateFormatter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ISO8601DateFormatter; sourceTree = BUILT_PRODUCTS_DIR; };
 		46DECC53218562CD0070966C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		46DECC5A2185666E0070966C /* TimeZoneTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeZoneTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				46DECC53218562CD0070966C /* main.swift */,
+				46DECC5A2185666E0070966C /* TimeZoneTests.swift */,
 			);
 			path = ISO8601DateFormatter;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				46DECC54218562CD0070966C /* main.swift in Sources */,
+				46DECC5B2185666E0070966C /* TimeZoneTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

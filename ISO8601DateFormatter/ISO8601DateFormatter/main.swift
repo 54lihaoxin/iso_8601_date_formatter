@@ -9,3 +9,7 @@
 import Foundation
 
 print("Hello, World!")
+
+TimeZoneTests.testChangeTimeZoneTime()
+
+print("Good bye, World!")
